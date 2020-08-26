@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-video-app"
+    }
+  },
+  "defaultProject": "angular-video-app",
+  "cli": {
+    "analytics": false
+  }
 }
